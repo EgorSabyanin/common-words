@@ -3,7 +3,7 @@
 
 ## Полезные ссылки
 
-1. [https://9elements.com/bem-cheat-sheet/](cheat sheet bem visual)
+1. (https://9elements.com/bem-cheat-sheet/)[cheat sheet bem visual]
 
 
 ## Советы в использовании имен
